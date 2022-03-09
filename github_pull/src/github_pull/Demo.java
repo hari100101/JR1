@@ -10,7 +10,7 @@ public class Demo {
 		ArrayList mylist=new ArrayList();
 
 		mylist.add(100);
-		mylist.add("hp");
+		mylist.add("hbo");
 		mylist.add(3.45);
 		System.out.println(mylist);
 	}
